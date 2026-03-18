@@ -8,7 +8,7 @@
   "dependencies": {
     "@gadagi/design-system": "^1.0.1",
     "@gadagi/types": "^1.0.1",
-    "@gadagi/auth": "^1.0.0",
+    "@gadagi/auth": "^1.0.2",
     "@gadagi/ui-header": "^1.0.1",
     "@gadagi/ui-navigation": "^1.0.1",
     "react": "^19.0.0",
