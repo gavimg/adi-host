@@ -6,12 +6,14 @@
     "build": "webpack --mode production"
   },
   "dependencies": {
+    "@gadagi/design-system": "^1.0.1",
+    "@gadagi/types": "^1.0.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-router-dom": "^6.0.0"
   },
   "devDependencies": {
-    "@module-federation/enhanced": "^0.6.0",
+    "@module-federation/enhanced": "^2.2.2",
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
     "css-loader": "^7.0.0",
