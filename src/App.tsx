@@ -1,7 +1,7 @@
 import React, { Suspense, lazy } from 'react';
 import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
 import { LoginForm, RegisterForm } from '@gadagi/auth';
-import './App.css';
+import './App.scss';
 
 const UsersApp    = lazy(() => import('adiUsers/UsersApp'));
 const ReportsApp  = lazy(() => import('adiReports/ReportsApp'));

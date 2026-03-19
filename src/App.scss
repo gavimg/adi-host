@@ -7,10 +7,10 @@
 }
 
 .host-app__subtitle {
-  color: #64748b;
+  color: var(--g-color-neutral-500);
 }
 
 .host-app__loading {
   padding: 2rem;
-  color: #64748b;
+  color: var(--g-color-neutral-500);
 }
