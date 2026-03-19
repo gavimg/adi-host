@@ -1,0 +1,16 @@
+.host-app {
+  padding: 2rem;
+}
+
+.host-app__title {
+  margin-bottom: 1rem;
+}
+
+.host-app__subtitle {
+  color: #64748b;
+}
+
+.host-app__loading {
+  padding: 2rem;
+  color: #64748b;
+}
